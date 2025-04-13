@@ -7,7 +7,7 @@ This is a self-written JQuery photo slider. It was made for myself and for fun. 
 
 Regarding the code: There are 3 included files, and there’s an HTML container with embedded PHP and Laravel code. It also uses Bootstrap 5 classes. The container needs to be used as is because the jQuery code is tied to the HTML structure and CSS classes.
 
------- RUSSIAN
+**RUSSIAN**
 
 Пример использования можете посмотреть здесь: 
 https://carsale.42web.io/view_car/839
